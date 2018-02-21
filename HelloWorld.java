@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String[] args) {
-	System.out.println(" Welcome to jenkins-github integration ");
+	System.out.println(" Welcome to github-jenkins integration ");
 }
 }
